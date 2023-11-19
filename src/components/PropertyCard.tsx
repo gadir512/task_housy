@@ -1,5 +1,4 @@
-// src/components/PropertyCard.tsx
-import React, { useState } from "react";
+import { useState } from "react";
 
 interface PropertyCardProps {
   property: {
