@@ -1,0 +1,125 @@
+{
+    "propertyListings": [
+      {
+        "id": 1,
+        "imageURL": ["http://housy.az/images/high_quality/0147041d60ec41a583fc539a50ddac12","http://housy.az/images/high_quality/71ccea142d0e49a390ce19375d112052","http://housy.az/images/high_quality/1d2aa232370249b0b7de7b05712f3166","http://housy.az/images/high_quality/c73bbf96ca034780be2aa5f425e1ae32"],
+        "floor": 4,
+        "maxFloor": 10,
+        "price": 100000,
+        "address": "Ahmadli",
+        "bedrooms": 2,
+        "description": "A beautiful property with a stunning view."
+      },
+      {
+        "id": 2,
+        "imageURL": ["http://housy.az/images/high_quality/9c909b2bf62c4806aeb7d0bd71d3168f","http://housy.az/images/high_quality/b51d9b7b4dd04ad5852de7f4d42e3a45","http://housy.az/images/high_quality/6d8fb235e96548b7a22b8415e6dca83a","http://housy.az/images/high_quality/46caa770182645cda62753ef6abbb3e4"],
+        "floor": 3,
+        "maxFloor": 6,
+        "price": 67000,
+        "address": "Nizami Gencevi",
+        "bedrooms": 2,
+        "description": "A beautiful property with a stunning view."
+      },
+      {
+        "id": 3,
+        "imageURL": ["http://housy.az/images/high_quality/0e6752cbfd634f658cc74b4fc911fa0c","http://housy.az/images/high_quality/002f29053c3f4fa09e245e099464c878","http://housy.az/images/high_quality/5476bee4ac604454a033e765e82be62a"],
+        "floor": 5,
+        "maxFloor": 5,
+        "price": 97000,
+        "address": "28 May",
+        "bedrooms": 4,
+        "description": "A beautiful property with a stunning view."
+      },
+      {
+        "id": 4,
+        "imageURL": ["http://housy.az/images/high_quality/0f48b4cb0085431b8f986f3d4c2c81f2","http://housy.az/images/high_quality/c1cd4f6654694d50bee9f75dcb707d8d","http://housy.az/images/high_quality/f34c71eb8e274cca916f2023cc230ea6"],
+        "floor": 4,
+        "maxFloor": 7,
+        "price": 200000,
+        "address": "Sahil",
+        "bedrooms": 5,
+        "description": "Spacious and well-maintained property with modern amenities."
+      },
+      {
+        "id": 5,
+        "imageURL": ["http://housy.az/images/high_quality/c819cf62e13845298db89bda663c4428","http://housy.az/images/high_quality/c819cf62e13845298db89bda663c4428"],
+        "floor": 6,
+        "maxFloor": 10,
+        "price": 140000,
+        "address": "Ahmadli",
+        "bedrooms": 3,
+        "description": "Spacious and well-maintained property with modern amenities."
+      },
+      {
+        "id": 6,
+        "imageURL": ["http://housy.az/images/high_quality/01cfb76deac245d99840edcb36214c93","http://housy.az/images/high_quality/0b1b3171117e47b0b1ecb6033fe2fc95","http://housy.az/images/high_quality/59254462007f4d2f9d6e40cc8dcf4167"],
+        "floor": 6,
+        "maxFloor": 10,
+        "price": 140000,
+        "address": "456 Elm St",
+        "bedrooms": 3,
+        "description": "Spacious and well-maintained property with modern amenities."
+      },
+      {
+        "id": 7,
+        "imageURL": ["http://housy.az/images/high_quality/c819cf62e13845298db89bda663c4428","http://housy.az/images/high_quality/c819cf62e13845298db89bda663c4428"],
+        "floor": 6,
+        "maxFloor": 10,
+        "price": 140000,
+        "address": "456 Elm St",
+        "bedrooms": 3,
+        "description": "Spacious and well-maintained property with modern amenities."
+      },
+      {
+        "id": 8,
+        "imageURL": ["http://housy.az/images/high_quality/c819cf62e13845298db89bda663c4428","http://housy.az/images/high_quality/c819cf62e13845298db89bda663c4428"],
+        "floor": 6,
+        "maxFloor": 10,
+        "price": 140000,
+        "address": "456 Elm St",
+        "bedrooms": 3,
+        "description": "Spacious and well-maintained property with modern amenities."
+      },
+      {
+        "id": 9,
+        "imageURL": ["http://housy.az/images/high_quality/c819cf62e13845298db89bda663c4428","http://housy.az/images/high_quality/c819cf62e13845298db89bda663c4428"],
+        "floor": 6,
+        "maxFloor": 10,
+        "price": 140000,
+        "address": "456 Elm St",
+        "bedrooms": 3,
+        "description": "Spacious and well-maintained property with modern amenities."
+      },
+      {
+        "id": 10,
+        "imageURL": ["http://housy.az/images/high_quality/0e6752cbfd634f658cc74b4fc911fa0c","http://housy.az/images/high_quality/002f29053c3f4fa09e245e099464c878","http://housy.az/images/high_quality/5476bee4ac604454a033e765e82be62a"],
+        "floor": 5,
+        "maxFloor": 5,
+        "price": 97000,
+        "address": "28 May",
+        "bedrooms": 4,
+        "description": "A beautiful property with a stunning view."
+      },
+      {
+        "id": 11,
+        "imageURL": ["http://housy.az/images/high_quality/0f48b4cb0085431b8f986f3d4c2c81f2","http://housy.az/images/high_quality/c1cd4f6654694d50bee9f75dcb707d8d","http://housy.az/images/high_quality/f34c71eb8e274cca916f2023cc230ea6"],
+        "floor": 14,
+        "maxFloor": 15,
+        "price": 270000,
+        "address": "Elmler Akademiyasi",
+        "bedrooms": 3,
+        "description": "Spacious and well-maintained property with modern amenities."
+      },
+      {
+        "id": 12,
+        "imageURL": ["http://housy.az/images/high_quality/c819cf62e13845298db89bda663c4428","http://housy.az/images/high_quality/c819cf62e13845298db89bda663c4428"],
+        "floor": 8,
+        "maxFloor": 10,
+        "price": 170000,
+        "address": "Xalqlar dostlugu",
+        "bedrooms": 5,
+        "description": "Spacious and well-maintained property with modern amenities."
+      }
+    ]
+  }
+  
